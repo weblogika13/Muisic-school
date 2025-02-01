@@ -1,0 +1,31 @@
+body{
+    background: #9CFCEB;
+    font-family: sans-serif;
+    margin: 0;
+}
+
+
+header{
+    padding: 20px;
+    background: #BB9CFC;
+    text-align: center;
+}
+
+main{
+    padding: 0 10%;
+    
+}
+
+
+.menu-link{
+    text-decoration: none;
+    color: white;
+    background-color: purple;
+    padding: 10px;
+    border-radius: 10px;
+    margin-right: 10px;
+}
+
+h2{
+    text-align: center;
+}
